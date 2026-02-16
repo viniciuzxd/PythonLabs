@@ -1,38 +1,35 @@
 estoque = []
 
-def adicionar_produto(nome, preco):
+def adicionar_material(noome, preco):
     item = {
-        "nome": nome, 
+        "nome": noome,
         "preco": preco
     }
     estoque.append(item)
-    print(f"✅ {nome} adicionado com sucesso!")
+    print(f"✅ {noome} adicionado com sucesso!")
 
 def listar_estoque():
     print("\n--- PRODUTOS EM ESTOQUE ---")
-    if not estoque:
-        print("Estoque vazio.")
-    else:
-        for produto in estoque:
-            print(f"📦 Nome: {produto['nome']} | 💰 Preço: R$ {produto['preco']:.2f}")
+    for item in estoque:
+        print(f"Nome: {item['nome']}, Preço: {item['preco']}")
 
-# --- Menu Principal ---
+# Estrutura de menu
+
 while True:
     print("\n1. Cadastrar | 2. Listar | 3. Sair")
     opcao = input("Escolha: ")
 
-    if opcao == '1':
-        n = input("Nome do produto: ").strip()
-        try:
-            p = float(input("Preço: ").replace(",", "."))
-            adicionar_produto(n, p)
-        except ValueError:
-            print("❌ Erro: Preço inválido.")
-            
-    elif opcao == '2':
-        listar_estoque()
-        
-    elif opcao == '3':
-        break
-    else:
-        print("Opção inválida.")
+    try:
+        if opcao == '1':
+            n = input("Nome do produto: ").strip()
+            try:
+                p = float(input("Preço: ").replace(",", "."))
+                adicionar_material(n, p)
+            except ValueError:
+                print("❌ Erro: Preço inválido.")
+        elif opcao == '2':
+            listar_estoque()
+        elif opcao == '3':
+            break
+    except ValueError:
+        print("❌ Erro: Preço inválido.")

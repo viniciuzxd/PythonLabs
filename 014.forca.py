@@ -12,7 +12,7 @@ while tentativas > 0:
     
     print("\n" + "="*20)
     print(f"Tentativas restantes: {tentativas}")
-    print(f"Letras que você já errou: {', '.join(letras_erradas)}") # <-- EXIBE OS ERROS
+    print(f"Letras que você já errou: {', '.join(letras_erradas)}")
     print("="*20)
     
     # 2. Desenha a palavra na tela
@@ -41,7 +41,7 @@ while tentativas > 0:
     # Validação de repetição
     if tentativa in letras_acertadas or tentativa in letras_erradas:
         print(f"⚠️ Você já tentou '{tentativa}'! Tente outra.")
-        input("Pressione Enter para continuar...") # Pausa para o usuário ler
+        input("Pressione Enter para continuar...") 
         continue
 
     # 5. Lógica de Acerto ou Erro
@@ -50,10 +50,10 @@ while tentativas > 0:
         letras_acertadas.append(tentativa)
     else:
         tentativas -= 1
-        letras_erradas.append(tentativa) # <-- GUARDA O ERRO
+        letras_erradas.append(tentativa) 
         print(f"❌ Errou! '{tentativa}' não está na palavra.")
     
-    input("Pressione Enter para continuar...") # Pausa para o usuário ler
+    input("Pressione Enter para continuar...") 
 
 # 6. Fim de jogo
 if tentativas == 0:
