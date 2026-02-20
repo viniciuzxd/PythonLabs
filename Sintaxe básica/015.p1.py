@@ -32,7 +32,7 @@ for palavra in palavras:
     # Adiciona a palavra invertida na frase final 
     frase_invertida = frase_invertida + palavra_invertida + " "
 
-# Exibe os resultados
+# Exibe os resultados gerais 
 
 print(f"Total de vogais: {totalVogais}" + f"\nTotal de consoantes: {consonantes}")
 print(f"Total de palavras: {len(palavras)}")
