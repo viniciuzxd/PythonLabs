@@ -68,21 +68,21 @@ Um dos cursos de Python mais populares e didáticos do Brasil. O curso é dividi
 - [x] **054** - Grupo da Maioridade
 - [x] **055** - Maior e menor da sequência
 - [x] **056** - Analisador completo
-- [ ] **057** - Validação de Dados
-- [ ] **058** - Jogo da Adivinhação v2.0
-- [ ] **059** - Criando um Menu de Opções
-- [ ] **060** - Cálculo do Fatorial
-- [ ] **061** - Progressão Aritmética v2.0
-- [ ] **062** - Super Progressão Aritmética v3.0
-- [ ] **063** - Sequência de Fibonacci v1.0
-- [ ] **064** - Tratando vários valores v1.0
-- [ ] **065** - Maior e Menor valores
-- [ ] **066** - Vários números com flag
-- [ ] **067** - Tabuada v3.0
-- [ ] **068** - Jogo do Par ou Ímpar
-- [ ] **069** - Análise de dados do grupo
-- [ ] **070** - Estatísticas em produtos
-- [ ] **071** - Simulador de Caixa Eletrônico
+- [x] **057** - Validação de Dados
+- [x] **058** - Jogo da Adivinhação v2.0
+- [x] **059** - Criando um Menu de Opções
+- [x] **060** - Cálculo do Fatorial
+- [x] **061** - Progressão Aritmética v2.0
+- [x] **062** - Super Progressão Aritmética v3.0
+- [x] **063** - Sequência de Fibonacci v1.0
+- [x] **064** - Tratando vários valores v1.0
+- [x] **065** - Maior e Menor valores
+- [x] **066** - Vários números com flag
+- [x] **067** - Tabuada v3.0
+- [x] **068** - Jogo do Par ou Ímpar
+- [x] **069** - Análise de dados do grupo
+- [x] **070** - Estatísticas em produtos
+- [x] **071** - Simulador de Caixa Eletrônico
 
 ### Mundo 3: Estruturas Compostas e Funções
 - [ ] **072** - Número por Extenso
