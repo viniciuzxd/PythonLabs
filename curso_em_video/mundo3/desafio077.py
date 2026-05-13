@@ -7,7 +7,7 @@ for c in range(1, 6):
 palavras = tuple(palavras_temp)
 
 for p in palavras:
-    print('Na palavra {} temos as vogais:  '.format(p.upper()))
+    print(f'\nNa palavra {p.upper()} temos as vogais:  ')
     for letra in p:
         if letra.lower() in 'aeiou':
             print(letra, end=' ')
