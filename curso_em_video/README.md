@@ -97,7 +97,8 @@ O Mundo 2 foi dedicado ao controle de fluxo do programa. Aqui, aprofundei o uso 
 - [x] **070** - Estatísticas em produtos
 - [x] **071** - Simulador de Caixa Eletrônico
 
-## 🌍 Mundo 3: Estruturas Compostas em Python
+## 🌍 Mundo 3: Estruturas Compostas
+O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetivo é aprender a armazenar, organizar e manipular múltiplos dados de forma eficiente na memória do computador.
 
 ### 🟢 Tuplas (Concluído)
 - [x] Desafio 072: Número por Extenso
@@ -106,7 +107,6 @@ O Mundo 2 foi dedicado ao controle de fluxo do programa. Aqui, aprofundei o uso 
 - [x] Desafio 075: Análise de dados em uma Tupla
 - [x] Desafio 076: Lista de Preços com Tupla
 - [x] Desafio 077: Contando vogais em Tupla
-
 ### 🟢 Listas - Parte 1 (Concluído)
 - [x] Desafio 078: Maior e Menor valores na Lista
 - [x] Desafio 079: Valores únicos em uma Lista
