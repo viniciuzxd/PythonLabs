@@ -101,13 +101,16 @@ O Mundo 2 foi dedicado ao controle de fluxo do programa. Aqui, aprofundei o uso 
 O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetivo é aprender a armazenar, organizar e manipular múltiplos dados de forma eficiente na memória do computador.
 
 ### 🟢 Tuplas (Concluído)
+*Estruturas de dados imutáveis, ideais para coleções de informações fixas.*
 - [x] Desafio 072: Número por Extenso
 - [x] Desafio 073: Tuplas com Times de Futebol
 - [x] Desafio 074: Maior e menor valores em Tupla
 - [x] Desafio 075: Análise de dados em uma Tupla
 - [x] Desafio 076: Lista de Preços com Tupla
 - [x] Desafio 077: Contando vogais em Tupla
+
 ### 🟢 Listas - Parte 1 (Concluído)
+*Estruturas dinâmicas e mutáveis, permitindo inserção, remoção e ordenação de dados.*
 - [x] Desafio 078: Maior e Menor valores na Lista
 - [x] Desafio 079: Valores únicos em uma Lista
 - [x] Desafio 080: Lista ordenada sem repetições
@@ -115,17 +118,14 @@ O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetiv
 - [x] Desafio 082: Dividindo valores em várias Listas
 - [x] Desafio 083: Validando expressões matemáticas
 
-### ⚪ Próximos Passos (Em breve...)
-- [ ] Listas - Parte 2 (Listas Compostas)
-- [ ] Dicionários
-- [ ] Funções
-- [ ] Tratamento de Erros
-- [ ] **084** - Lista composta e análise de dados
-- [ ] **085** - Listas com pares e ímpares
-- [ ] **086** - Matriz em Python
-- [ ] **087** - Mais sobre matriz em Python
-- [ ] **088** - Palpites para a Mega Sena
-- [ ] **089** - Boletim com listas compostas
+### 🟢 Listas - Parte 2: Listas Compostas (Concluído)
+*Matrizes e arquitetura de dados em memória utilizando listas aninhadas.*
+- [x] Desafio 084: Lista composta e análise de dados
+- [x] Desafio 085: Listas com pares e ímpares
+- [x] Desafio 086: Matriz em Python
+- [x] Desafio 087: Mais sobre Matriz em Python
+- [x] Desafio 088: Palpites para a Mega Sena
+- [x] Desafio 089: Boletim com listas compostas
 - [ ] **090** - Dicionário em Python
 - [ ] **091** - Jogo de Dados em Python
 - [ ] **092** - Cadastro de Trabalhador em Python
