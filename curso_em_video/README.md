@@ -101,7 +101,6 @@ O Mundo 2 foi dedicado ao controle de fluxo do programa. Aqui, aprofundei o uso 
 O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetivo é aprender a armazenar, organizar e manipular múltiplos dados de forma eficiente na memória do computador.
 
 ### 🟢 Tuplas (Concluído)
-*Estruturas de dados imutáveis, ideais para coleções de informações fixas.*
 - [x] Desafio 072: Número por Extenso
 - [x] Desafio 073: Tuplas com Times de Futebol
 - [x] Desafio 074: Maior e menor valores em Tupla
@@ -110,7 +109,6 @@ O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetiv
 - [x] Desafio 077: Contando vogais em Tupla
 
 ### 🟢 Listas - Parte 1 (Concluído)
-*Estruturas dinâmicas e mutáveis, permitindo inserção, remoção e ordenação de dados.*
 - [x] Desafio 078: Maior e Menor valores na Lista
 - [x] Desafio 079: Valores únicos em uma Lista
 - [x] Desafio 080: Lista ordenada sem repetições
@@ -119,38 +117,45 @@ O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetiv
 - [x] Desafio 083: Validando expressões matemáticas
 
 ### 🟢 Listas - Parte 2: Listas Compostas (Concluído)
-*Matrizes e arquitetura de dados em memória utilizando listas aninhadas.*
 - [x] Desafio 084: Lista composta e análise de dados
 - [x] Desafio 085: Listas com pares e ímpares
 - [x] Desafio 086: Matriz em Python
 - [x] Desafio 087: Mais sobre Matriz em Python
 - [x] Desafio 088: Palpites para a Mega Sena
 - [x] Desafio 089: Boletim com listas compostas
-- [ ] **090** - Dicionário em Python
-- [ ] **091** - Jogo de Dados em Python
-- [ ] **092** - Cadastro de Trabalhador em Python
-- [ ] **093** - Cadastro de Jogador de Futebol
-- [ ] **094** - Unindo dicionários e listas
-- [ ] **095** - Aprimorando os Dicionários
-- [ ] **096** - Função que calcula área
-- [ ] **097** - Um print especial
-- [ ] **098** - Função de Contador
-- [ ] **099** - Função que descobre o maior
-- [ ] **100** - Funções para sortear e somar
-- [ ] **101** - Funções para votação
-- [ ] **102** - Função para Fatorial
-- [ ] **103** - Ficha do Jogador
-- [ ] **104** - Validando entrada de dados em Python
-- [ ] **105** - Analisando e gerando Dicionários
-- [ ] **106** - Sistema interativo de ajuda em Python
-- [ ] **107** - Exercitando módulos em Python
-- [ ] **108** - Formatando Moedas em Python
-- [ ] **109** - Formatando Moedas em Python (Aperfeiçoado)
-- [ ] **110** - Reduzindo ainda mais seu programa
-- [ ] **111** - Transformando módulos em pacotes
-- [ ] **112** - Entrada de dados monetários
-- [ ] **113** - Funções aprofundadas em Python
-- [ ] **114** - Site está acessível?
-- [ ] **115a** - Criando um menu
-- [ ] **115b** - Arquivos com Python
-- [ ] **115c** - Finalizando o projeto
+
+### 🟢 Dicionários (Concluído)
+- [x] Desafio 090: Dicionário em Python
+- [x] Desafio 091: Jogo de Dados em Python
+- [x] Desafio 092: Cadastro de Trabalhador em Python
+- [x] Desafio 093: Cadastro de Jogador de Futebol
+- [x] Desafio 094: Unindo dicionários e listas
+- [x] Desafio 095: Aprimorando os Dicionários
+
+### 🟡 Funções
+- [ ] Desafio 096: Função que calcula área
+- [ ] Desafio 097: Um print especial
+- [ ] Desafio 098: Função de Contador
+- [ ] Desafio 099: Função que descobre o maior
+- [ ] Desafio 100: Funções para sortear e somar
+- [ ] Desafio 101: Funções para votação
+- [ ] Desafio 102: Função para Fatorial
+- [ ] Desafio 103: Ficha do Jogador
+- [ ] Desafio 104: Validando entrada de dados em Python
+- [ ] Desafio 105: Analisando e gerando Dicionários
+- [ ] Desafio 106: Sistema interativo de ajuda em Python
+
+### 🔴 Modularização e Pacotes
+- [ ] Desafio 107: Exercitando módulos em Python
+- [ ] Desafio 108: Formatando Moedas em Python
+- [ ] Desafio 109: Formatando Moedas em Python (Aperfeiçoado)
+- [ ] Desafio 110: Reduzindo ainda mais seu programa
+- [ ] Desafio 111: Transformando módulos em pacotes
+- [ ] Desafio 112: Entrada de dados monetários
+
+### 🔴 Tratamento de Erros e Projetos Finais
+- [ ] Desafio 113: Funções aprofundadas em Python
+- [ ] Desafio 114: Site está acessível?
+- [ ] Desafio 115a: Criando um menu
+- [ ] Desafio 115b: Arquivos com Python
+- [ ] Desafio 115c: Finalizando o projeto
