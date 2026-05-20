@@ -1,0 +1,14 @@
+# Definição da Função (O "Método")
+def area(larg, comp):
+    a = larg * comp
+    print(f'A área de um terreno {larg}x{comp} é de {a}m².')
+
+# Programa Principal (A "Main")
+print(' Controle de Terrenos')
+print('-' * 20)
+
+l = float(input('LARGURA (m): '))
+c = float(input('COMPRIMENTO (m): '))
+
+# Chamada da Função passando os argumentos
+area(l, c)

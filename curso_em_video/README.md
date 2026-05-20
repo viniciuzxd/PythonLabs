@@ -132,12 +132,13 @@ O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetiv
 - [x] Desafio 094: Unindo dicionários e listas
 - [x] Desafio 095: Aprimorando os Dicionários
 
-### 🟡 Funções
-- [ ] Desafio 096: Função que calcula área
-- [ ] Desafio 097: Um print especial
-- [ ] Desafio 098: Função de Contador
-- [ ] Desafio 099: Função que descobre o maior
-- [ ] Desafio 100: Funções para sortear e somar
+### 🟢 Funções - Parte 1 (Concluído)
+- [x] Desafio 096: Função que calcula área
+- [x] Desafio 097: Um print especial (Formatador de CLI)
+- [x] Desafio 098: Função de Contador (Validação de Edge Cases)
+- [x] Desafio 099: Função que descobre o maior (Empacotamento de parâmetros)
+- [x] Desafio 100: Funções para sortear e somar (Passagem por referência)
+
 - [ ] Desafio 101: Funções para votação
 - [ ] Desafio 102: Função para Fatorial
 - [ ] Desafio 103: Ficha do Jogador
