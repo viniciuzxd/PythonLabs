@@ -7,6 +7,39 @@ Um dos cursos de Python mais populares e didáticos do Brasil. O curso é dividi
 
 ---
 
+## 📂 Organização Estrutural (Mundo 3)
+
+Para manter o repositório limpo, escalável e profissional, a reta final do Mundo 3 foi reestruturada saindo do modelo de arquivos soltos para uma arquitetura dividida por pilares de evolução. 
+
+A estrutura de diretórios foi definida da seguinte forma:
+
+```text
+mundo_tres/
+│
+├── 01_funcoes/          # Desafios 096 a 106 (Escopo, parâmetros e PyHelp)
+│   ├── ex096_area.py
+│   └── ...
+│
+├── 02_modularizacao/    # Desafios 107 a 112 (Construção do pacote utilidadesCeV)
+│   ├── teste.py         # Script principal de execução
+│   └── utilidadesCeV/   # Pacote contendo os submódulos 'moeda' e 'dado'
+│       ├── __init__.py
+│       ├── dado/
+│       └── moeda/
+│
+└── 03_erros_e_arquivos/ # Desafios 113 a 115 (Tratamento de exceções e persistência)
+    ├── desafio113.py
+    ├── desafio114.py
+    └── desafio150
+        └── projeto_cadastro/ # Sistema completo com banco de dados em texto simples
+            ├── principal.py
+            ├── interface/
+            └── arquivo/ 
+            
+```
+
+---
+
 ## 🏆 Progresso dos Desafios (A Jornada da Platina)
 
 ## 🌍 Mundo 1: Fundamentos Básicos
@@ -139,24 +172,24 @@ O Mundo 3 marca a transição para estruturas de dados mais complexas. O objetiv
 - [x] Desafio 099: Função que descobre o maior (Empacotamento de parâmetros)
 - [x] Desafio 100: Funções para sortear e somar (Passagem por referência)
 
-- [ ] Desafio 101: Funções para votação
-- [ ] Desafio 102: Função para Fatorial
-- [ ] Desafio 103: Ficha do Jogador
-- [ ] Desafio 104: Validando entrada de dados em Python
-- [ ] Desafio 105: Analisando e gerando Dicionários
-- [ ] Desafio 106: Sistema interativo de ajuda em Python
+- [x] Desafio 101: Funções para votação
+- [x] Desafio 102: Função para Fatorial
+- [x] Desafio 103: Ficha do Jogador
+- [x] Desafio 104: Validando entrada de dados em Python
+- [x] Desafio 105: Analisando e gerando Dicionários
+- [x] Desafio 106: Sistema interativo de ajuda em Python
 
-### 🔴 Modularização e Pacotes
-- [ ] Desafio 107: Exercitando módulos em Python
-- [ ] Desafio 108: Formatando Moedas em Python
-- [ ] Desafio 109: Formatando Moedas em Python (Aperfeiçoado)
-- [ ] Desafio 110: Reduzindo ainda mais seu programa
-- [ ] Desafio 111: Transformando módulos em pacotes
-- [ ] Desafio 112: Entrada de dados monetários
+### 🟢 Modularização e Pacotes
+- [x] Desafio 107: Exercitando módulos em Python
+- [x] Desafio 108: Formatando Moedas em Python
+- [x] Desafio 109: Formatando Moedas em Python (Aperfeiçoado)
+- [x] Desafio 110: Reduzindo ainda mais seu programa
+- [x] Desafio 111: Transformando módulos em pacotes
+- [x] Desafio 112: Entrada de dados monetários
 
-### 🔴 Tratamento de Erros e Projetos Finais
-- [ ] Desafio 113: Funções aprofundadas em Python
-- [ ] Desafio 114: Site está acessível?
-- [ ] Desafio 115a: Criando um menu
-- [ ] Desafio 115b: Arquivos com Python
-- [ ] Desafio 115c: Finalizando o projeto
+### 🟢 Tratamento de Erros e Projetos Finais
+- [x] Desafio 113: Funções aprofundadas em Python
+- [x] Desafio 114: Site está acessível?
+- [x] Desafio 115a: Criando um menu
+- [x] Desafio 115b: Arquivos com Python
+- [x] Desafio 115c: Finalizando o projeto
